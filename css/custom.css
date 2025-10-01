@@ -13,7 +13,7 @@
 .vc_custom_1469089433188 {
   background: 
     linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)), /* capa de color */
-    url('../images/fotos/_DSC8911.jpg'); /* imagen */
+    url('../images/fotos/DSC8911.jpg'); /* imagen */
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
@@ -67,7 +67,7 @@
   /*background-image: url('../images/bg-03ac16.jpg')!important;*/
    background: 
     linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)), /* capa de color */
-    url('../images/fotos/_DSC9272.jpg') !important; /* imagen */
+    url('../images/fotos/DSC9272.jpg') !important; /* imagen */
   background-position: center!important;
   background-repeat: no-repeat!important;
   background-size: cover!important;
