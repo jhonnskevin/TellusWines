@@ -4823,7 +4823,8 @@ blockquote.sc_promo_text {
     font-size: 3em;
     line-height: 1.3em;
     margin-bottom: 0.5em;
-    color: #efa758
+    /*color: #efa758*/
+    color: #593131;
 }
 
 .sc_promo_icon span:before {
